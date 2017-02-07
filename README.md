@@ -36,10 +36,10 @@ Broken Age
 Day of the Tentacle Remastered -- [news](http://www.pcgamer.com/day-of-the-tentacle-remastered-screenshots-revealed  
 The Beginner's Guide (from creator of Stanley Parable) [game](http://store.steampowered.com/app/303210/)  
 Bicyclism - [game](http://gamejolt.com/games/bicyclism-art-of-riding/39795)  
-Read Only Memory - [game](http://readonlymemori.es/)  
 Gang Beasts  
 Giraffes Volleyball Championship 2016  
 Noby Noby Boy  
+Pony Island -- [game](http://store.steampowered.com/app/405640/)  
 
 
  
@@ -51,7 +51,7 @@ Undertale -- [game](http://store.steampowered.com/app/391540/)
 DoomRL --[game](http://doom.chaosforge.org/)   
 Theresa Duncan Games -- [news](https://www.theverge.com/2015/4/17/8436439/theresa-duncan-chop-suey-cd-rom-preservation)  
 Kentucky Route Zero -- [game](http://kentuckyroutezero.com/)  
-Pony Island -- [game](http://store.steampowered.com/app/405640/)  
+Read Only Memory - [game](http://readonlymemori.es/)  
 Machinarium  
   
 
