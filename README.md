@@ -2,29 +2,32 @@
 # GAMES!!!
 
 ## Beaten Games
-[[Grim Fandango Remastered]] -- [wikipedia](https://en.wikipedia.org/wiki/Grim_Fandango)  
-[[Horsemaster]] -- [game](http://noncanon.com/HorseMaster.html)  
-[[Ultimate Business Tycoon 3]] -- [game](http://aliendovecote.com/uploads/twine/tycoon/crime.html)  
-[[Ke$ha Crystal Warrior]] -- [game](http://aliendovecote.com/uploads/twine/kesha.html)  
-[[Her Story]] -- [game](http://www.herstorygame.com/)  
-[[Ad Verbum]] -- [game](http://nickm.com/if/adverbum.html)  
-[[Slave of God]] -- [game](http://www.increpare.com/2012/12/slave-of-god/)  
-[[The Neverhood]] -- [game](https://archive.org/details/Neverhood_The_1996_DreamWorks) -- [wikipedia](https://en.wikipedia.org/wiki/The_Neverhood)  
-[[Sabbat]] -- [game](http://porpentine.tumblr.com/post/43790631192/presenting-sabbat-a-twine-game-by-oh-no-problems)  
-[[Violet]] -- [game](http://textadventures.co.uk/games/view/e-utl5-bu0yya2ycst0mrg/violet)  
-[[Ciebele]] - [game](http://ninasays.so/cibele/)  
-[[Icararus Proudbottom Teaches Typing]] -- [game](http://www.holywowstudios.com/teachestyping/)  
-[[Star Craft 2 Virtual Novel]] -- [game](http://www.sc2vn.com/)  
-[[The Stanley Parable]] -- [game](http://www.stanleyparable.com/)  
-[[Your First Time Having Sex With An Apple Watch]] -- [game](http://www.buzzfeed.com/samthurman/os-xxx#.ajbJmmalK)  
-[[The SXSW Game]] -- [game](http://www.freeindiegam.es/2013/03/the-sxsw-game-leigh-alexander/)   
-[[How Do You Do It]] -- [game](http://ninasays.so/howdoyoudoit/)  
-[[Lullaby For Heartsick Spacer]] -- [game](http://mkopas.net/files/spacerlullaby/)  
-[[A Good Snowman Is Hard To Build]] -- [game](http://agoodsnowman.com/)  
-[[Virtual Grappi]] -- [game](http://rpgmaker.net/games/8284/)  
-[[Queers In Love At The End Of The World]] -- [game](http://auntiepixelante.com/endoftheworld/)  
-[[Animal Inspector]] -- [game](http://tomastle.itch.io/animal-inspector)  
-[[Armikrog]] - [game](http://store.steampowered.com/app/334120/)  
+Accounting VR  
+Inside  
+Obduction  
+Grim Fandango Remastered -- [wikipedia](https://en.wikipedia.org/wiki/Grim_Fandango)  
+Horsemaster -- [game](http://noncanon.com/HorseMaster.html)  
+Ultimate Business Tycoon 3 -- [game](http://aliendovecote.com/uploads/twine/tycoon/crime.html)  
+Ke$ha Crystal Warrior -- [game](http://aliendovecote.com/uploads/twine/kesha.html)  
+Her Story -- [game](http://www.herstorygame.com/)  
+Ad Verbum -- [game](http://nickm.com/if/adverbum.html)  
+Slave of God -- [game](http://www.increpare.com/2012/12/slave-of-god/)  
+The Neverhood -- [game](https://archive.org/details/Neverhood_The_1996_DreamWorks) -- [wikipedia](https://en.wikipedia.org/wiki/The_Neverhood)  
+Sabbat -- [game](http://porpentine.tumblr.com/post/43790631192/presenting-sabbat-a-twine-game-by-oh-no-problems)  
+Violet -- [game](http://textadventures.co.uk/games/view/e-utl5-bu0yya2ycst0mrg/violet)  
+Ciebele - [game](http://ninasays.so/cibele/)  
+Icararus Proudbottom Teaches Typing -- [game](http://www.holywowstudios.com/teachestyping/)  
+Star Craft 2 Virtual Novel -- [game](http://www.sc2vn.com/)  
+The Stanley Parable -- [game](http://www.stanleyparable.com/)  
+Your First Time Having Sex With An Apple Watch -- [game](http://www.buzzfeed.com/samthurman/os-xxx#.ajbJmmalK)  
+The SXSW Game -- [game](http://www.freeindiegam.es/2013/03/the-sxsw-game-leigh-alexander/)   
+How Do You Do It -- [game](http://ninasays.so/howdoyoudoit/)  
+Lullaby For Heartsick Spacer -- [game](http://mkopas.net/files/spacerlullaby/)  
+A Good Snowman Is Hard To Build -- [game](http://agoodsnowman.com/)  
+Virtual Grappi -- [game](http://rpgmaker.net/games/8284/)  
+Queers In Love At The End Of The World -- [game](http://auntiepixelante.com/endoftheworld/)  
+Animal Inspector -- [game](http://tomastle.itch.io/animal-inspector)  
+Armikrog - [game](http://store.steampowered.com/app/334120/)  
 Ennuigi -- [game](http://www.lexaloffle.com/bbs/?tid=2232&pid=12311&autoplay=1#pp)  
 Firewatch -- [game](http://www.firewatchgame.com/)  
 You’re The World’s Most Successful Pickup Artist. Can You Have Sex With The President Of The United States? -- [game](http://www.clickhole.com/clickventure/youre-worlds-most-successful-pickup-artist-can-you-3880#1,)  
@@ -41,14 +44,15 @@ Noby Noby Boy
  
 
 ## In Progress
-[[Counterfeit Monkey]] -- [game](http://emshort.com/counterfeit_monkey/)  
-[[Full Throttle]] -- [wikipedia](https://en.wikipedia.org/wiki/Full_Throttle_(1995_video_game)  
-[[Undertale]] -- [game](http://store.steampowered.com/app/391540/)  
-[[DoomRL]] --[game](http://doom.chaosforge.org/)   
-[[Theresa Duncan Games]] -- [news](https://www.theverge.com/2015/4/17/8436439/theresa-duncan-chop-suey-cd-rom-preservation)  
-[[Kentucky Route Zero]] -- [game](http://kentuckyroutezero.com/)  
+Counterfeit Monkey -- [game](http://emshort.com/counterfeit_monkey/)  
+Full Throttle -- [wikipedia](https://en.wikipedia.org/wiki/Full_Throttle_(1995_video_game)  
+Undertale -- [game](http://store.steampowered.com/app/391540/)  
+DoomRL --[game](http://doom.chaosforge.org/)   
+Theresa Duncan Games -- [news](https://www.theverge.com/2015/4/17/8436439/theresa-duncan-chop-suey-cd-rom-preservation)  
+Kentucky Route Zero -- [game](http://kentuckyroutezero.com/)  
 Pony Island -- [game](http://store.steampowered.com/app/405640/)  
-
+Frog Fractions 2  
+Machinarium  
   
 
 
@@ -94,7 +98,7 @@ else Heart.Break() -- [game](http://elseheartbreak.com/)
     Thomas Was Alone - [game](http://www.mikebithellgames.com/thomaswasalone/)  
     This War of Mine - [game](http://www.11bitstudios.com/games/16/this-war-of-mine)  
     Long Live the Queen - [game](http://store.steampowered.com/app/251990/)  
-    The swapper. 
+    The swapper  
     Thimbleweed Park - [not our yet](https://thimbleweedpark.com/)  
     New Lethes - [game](https://colestia.itch.io/new-lethes)  
     Infinifactory - [game](http://www.zachtronics.com/infinifactory/)  
@@ -110,8 +114,20 @@ else Heart.Break() -- [game](http://elseheartbreak.com/)
     Box-256 - [game](http://box-256.com/)  
     Void and Meddler - [developer](http://voidandmeddler.com/) [steam](http://store.steampowered.com/app/377970/)  
     Engage - [game](http://www.engare.design/)  
-    Beads of orange glass - [game](https://lorenschmidt.itch.io/beads-of-orange-glass)
-    Headlander
-    Forest of Sleep
-    Sacramento
-    killing time at light speed: https://gritfish.itch.io/ktals
+    Beads of orange glass - [game](https://lorenschmidt.itch.io/beads-of-orange-glass)  
+    Headlander  
+    Forest of Sleep - http://twistedtreegames.com/forest-of-sleep/  
+    Sacramento - https://dziff.itch.io/sacramento  
+    killing time at light speed: https://gritfish.itch.io/ktals  
+    OxenFree 
+    Superhot - https://superhotgame.com/   
+    Virginia - http://store.steampowered.com/app/374030/  
+    Quadrilateral Cowboy - http://blendogames.com/qc/  
+    Shanzen I/O  
+    Primordia  
+    Jalopy - http://store.steampowered.com/app/446020/  
+    The Bunker - http://store.steampowered.com/app/481110/  
+    Ladykiller in a Bind - http://store.steampowered.com/app/560000/?snr=1_620_4_1401_45  
+    Ice Bound - http://ice-bound.com/news/ice-bound-sale-writing-charity/  
+    Recursed - http://store.steampowered.com/app/497780/  
+
