@@ -130,4 +130,21 @@ else Heart.Break() -- [game](http://elseheartbreak.com/)
     Ladykiller in a Bind - http://store.steampowered.com/app/560000/?snr=1_620_4_1401_45  
     Ice Bound - http://ice-bound.com/news/ice-bound-sale-writing-charity/  
     Recursed - http://store.steampowered.com/app/497780/  
-
+    [Linelight](https://linelightgame.com/)  
+    [Prune](http://www.prunegame.com/)  
+    [Year Walk](http://store.steampowered.com/app/269050/)  
+    [Shelter](http://store.steampowered.com/app/244710/)  
+    [Never Alone](http://neveralonegame.com/)  
+    [Klocki](http://store.steampowered.com/app/499440/)  
+    [Hyper Light Drifter](http://store.steampowered.com/app/257850/)  
+    [Fez](http://www.fezgame.com/)  
+    [Psychonauts](http://www.psychonauts.com/)  
+    [Lisa: The Painful RPG](http://www.lisatherpg.com/)   
+    [Kairo](http://kairo.lockeddoorpuzzle.com/)  
+    [Eversion](http://store.steampowered.com/app/33680/)  
+    [Orwell](http://store.steampowered.com/app/491950/)  
+    [Everybody's Gone to the Rapture](http://store.steampowered.com/app/417880/)  
+    [Diaries of a Spaceport Janitor](http://store.steampowered.com/app/436500/)  
+    [Loom](http://store.steampowered.com/app/32340/)  
+    [Astroneer](http://store.steampowered.com/app/361420/)  
+    
