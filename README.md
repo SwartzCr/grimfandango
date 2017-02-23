@@ -2,46 +2,45 @@
 # GAMES!!!
 
 ## Beaten Games
+OxenFree  
 Frog Fractions 2/3  
 Accounting VR  
 Inside  
 Obduction  
 Grim Fandango Remastered -- [wikipedia](https://en.wikipedia.org/wiki/Grim_Fandango)  
-Horsemaster -- [game](http://noncanon.com/HorseMaster.html)  
-Ultimate Business Tycoon 3 -- [game](http://aliendovecote.com/uploads/twine/tycoon/crime.html)  
-Ke$ha Crystal Warrior -- [game](http://aliendovecote.com/uploads/twine/kesha.html)  
-Her Story -- [game](http://www.herstorygame.com/)  
-Ad Verbum -- [game](http://nickm.com/if/adverbum.html)  
-Slave of God -- [game](http://www.increpare.com/2012/12/slave-of-god/)  
-The Neverhood -- [game](https://archive.org/details/Neverhood_The_1996_DreamWorks) -- [wikipedia](https://en.wikipedia.org/wiki/The_Neverhood)  
-Sabbat -- [game](http://porpentine.tumblr.com/post/43790631192/presenting-sabbat-a-twine-game-by-oh-no-problems)  
-Violet -- [game](http://textadventures.co.uk/games/view/e-utl5-bu0yya2ycst0mrg/violet)  
-Ciebele - [game](http://ninasays.so/cibele/)  
-Icararus Proudbottom Teaches Typing -- [game](http://www.holywowstudios.com/teachestyping/)  
-Star Craft 2 Virtual Novel -- [game](http://www.sc2vn.com/)  
-The Stanley Parable -- [game](http://www.stanleyparable.com/)  
-Your First Time Having Sex With An Apple Watch -- [game](http://www.buzzfeed.com/samthurman/os-xxx#.ajbJmmalK)  
-The SXSW Game -- [game](http://www.freeindiegam.es/2013/03/the-sxsw-game-leigh-alexander/)   
-How Do You Do It -- [game](http://ninasays.so/howdoyoudoit/)  
-Lullaby For Heartsick Spacer -- [game](http://mkopas.net/files/spacerlullaby/)  
-A Good Snowman Is Hard To Build -- [game](http://agoodsnowman.com/)  
-Virtual Grappi -- [game](http://rpgmaker.net/games/8284/)  
-Queers In Love At The End Of The World -- [game](http://auntiepixelante.com/endoftheworld/)  
-Animal Inspector -- [game](http://tomastle.itch.io/animal-inspector)  
-Armikrog - [game](http://store.steampowered.com/app/334120/)  
-Ennuigi -- [game](http://www.lexaloffle.com/bbs/?tid=2232&pid=12311&autoplay=1#pp)  
-Firewatch -- [game](http://www.firewatchgame.com/)  
-You’re The World’s Most Successful Pickup Artist. Can You Have Sex With The President Of The United States? -- [game](http://www.clickhole.com/clickventure/youre-worlds-most-successful-pickup-artist-can-you-3880#1,)  
+[Horsemaster](http://noncanon.com/HorseMaster.html)  
+[Ultimate Business Tycoon 3](http://aliendovecote.com/uploads/twine/tycoon/crime.html)  
+[Ke$ha Crystal Warrior](http://aliendovecote.com/uploads/twine/kesha.html)  
+[Her Story](http://www.herstorygame.com/)  
+[Ad Verbum](http://nickm.com/if/adverbum.html)  
+[Slave of God](http://www.increpare.com/2012/12/slave-of-god/)  
+[The Neverhood](https://archive.org/details/Neverhood_The_1996_DreamWorks) -- [wikipedia](https://en.wikipedia.org/wiki/The_Neverhood)  
+[Sabbat](http://porpentine.tumblr.com/post/43790631192/presenting-sabbat-a-twine-game-by-oh-no-problems)  
+[Violet](http://textadventures.co.uk/games/view/e-utl5-bu0yya2ycst0mrg/violet)  
+[Ciebele](http://ninasays.so/cibele/)  
+[Icararus Proudbottom Teaches Typing](http://www.holywowstudios.com/teachestyping/)  
+[Star Craft 2 Virtual Novel](http://www.sc2vn.com/)  
+[The Stanley Parable](http://www.stanleyparable.com/)  
+[Your First Time Having Sex With An Apple Watch](http://www.buzzfeed.com/samthurman/os-xxx#.ajbJmmalK)  
+[The SXSW Game](http://www.freeindiegam.es/2013/03/the-sxsw-game-leigh-alexander/)   
+[How Do You Do It](http://ninasays.so/howdoyoudoit/)  
+[Lullaby For Heartsick Spacer](http://mkopas.net/files/spacerlullaby/)  
+[A Good Snowman Is Hard To Build](http://agoodsnowman.com/)  
+[Virtual Grappi](http://rpgmaker.net/games/8284/)  
+[Queers In Love At The End Of The World](http://auntiepixelante.com/endoftheworld/)  
+[Animal Inspector](http://tomastle.itch.io/animal-inspector)  
+[Armikrog](http://store.steampowered.com/app/334120/)  
+[Ennuigi](http://www.lexaloffle.com/bbs/?tid=2232&pid=12311&autoplay=1#pp)  
+[Firewatch](http://www.firewatchgame.com/)  
+[You’re The World’s Most Successful Pickup Artist. Can You Have Sex With The President Of The United States?](http://www.clickhole.com/clickventure/youre-worlds-most-successful-pickup-artist-can-you-3880#1,)  
 Broken Age  
 Day of the Tentacle Remastered -- [news](http://www.pcgamer.com/day-of-the-tentacle-remastered-screenshots-revealed  
-The Beginner's Guide (from creator of Stanley Parable) [game](http://store.steampowered.com/app/303210/)  
-Bicyclism - [game](http://gamejolt.com/games/bicyclism-art-of-riding/39795)  
+[The Beginner's Guide (from creator of Stanley Parable)](http://store.steampowered.com/app/303210/)  
+[Bicyclism](http://gamejolt.com/games/bicyclism-art-of-riding/39795)  
 Gang Beasts  
 Giraffes Volleyball Championship 2016  
 Noby Noby Boy  
-Pony Island -- [game](http://store.steampowered.com/app/405640/)  
-
-
+[Pony Island](http://store.steampowered.com/app/405640/)  
  
 
 ## In Progress
@@ -58,6 +57,7 @@ Machinarium
 
 
 ## Games yet to play
+[Ooblets](https://ooblets.com/2017/02/our-biggest-news-yet/)    
 Fract -- [game](http://fractgame.com/)  
 The Longest Journey -- [wikipedia](https://en.wikipedia.org/wiki/The_Longest_Journey)  
 Gone Home -- [game](http://www.gonehomegame.com/)  
