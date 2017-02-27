@@ -45,7 +45,7 @@ Noby Noby Boy
 
 ## In Progress
 [Counterfeit Monkey](http://emshort.com/counterfeit_monkey/)  
-[Full Throttle](https://en.wikipedia.org/wiki/Full_Throttle_(1995_video_game)  
+[Full Throttle](https://en.wikipedia.org/wiki/Full_Throttle_(1995_video_game))  
 [Undertale](http://store.steampowered.com/app/391540/)  
 [DoomRL](http://doom.chaosforge.org/)   
 [Theresa Duncan Games](https://www.theverge.com/2015/4/17/8436439/theresa-duncan-chop-suey-cd-rom-preservation)  
