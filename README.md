@@ -57,6 +57,7 @@ Machinarium
 
 
 ## Games yet to play
+[tinyheist](http://www.pcgamer.com/terry-cavanaghs-stealthy-roguelike-tiny-heist-released-for-free/)
 Qube  
 We Happy Few  
 Oikospiel  
