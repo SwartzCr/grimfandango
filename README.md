@@ -57,6 +57,11 @@ Machinarium
 
 
 ## Games yet to play
+Qube  
+We Happy Few  
+Oikospiel  
+Brut@l roguelike  
+Rimworld  
 [Ooblets](https://ooblets.com/2017/02/our-biggest-news-yet/)    
 [Fract](http://fractgame.com/)  
 [The Longest Journey](https://en.wikipedia.org/wiki/The_Longest_Journey)  
