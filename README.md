@@ -57,8 +57,9 @@ Machinarium
 
 
 ## Games yet to play
-[Home Improvisation VR](https://www.youtube.com/watch?v=gRArtkjKKPg)
-[tinyheist](http://www.pcgamer.com/terry-cavanaghs-stealthy-roguelike-tiny-heist-released-for-free/)
+[Terrifying Jellyfish games](http://terrifyingjellyfish.com/tagged/portfolio)  
+[Home Improvisation VR](https://www.youtube.com/watch?v=gRArtkjKKPg)  
+[tinyheist](http://www.pcgamer.com/terry-cavanaghs-stealthy-roguelike-tiny-heist-released-for-free/)  
 Qube  
 We Happy Few  
 Oikospiel  
