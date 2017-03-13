@@ -57,7 +57,8 @@ Machinarium
 
 
 ## Games yet to play
-beglitched  
+[Ape Out](http://www.ign.com/articles/2017/03/09/ape-out-is-like-hotline-miami-with-an-animalistic-twist)  
+[beglitched](http://apthomson.com/)  
 [Terrifying Jellyfish games](http://terrifyingjellyfish.com/tagged/portfolio)  
 [Home Improvisation VR](https://www.youtube.com/watch?v=gRArtkjKKPg)  
 [tinyheist](http://www.pcgamer.com/terry-cavanaghs-stealthy-roguelike-tiny-heist-released-for-free/)  
