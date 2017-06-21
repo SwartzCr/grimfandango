@@ -3,7 +3,7 @@
 
 ## Beaten Games
 OxenFree  
-[Night in the Woods](http://www.nightinthewoods.com)
+[Night in the Woods](http://www.nightinthewoods.com)  
 Frog Fractions 2/3  
 Accounting VR  
 Inside  
@@ -58,14 +58,14 @@ Machinarium
 
 
 ## Games yet to play
-Minit
-Donut County
-[Orwell](http://store.steampowered.com/app/491950/)  
-[Virginia](http://store.steampowered.com/agecheck/app/374030/)
-Event[0]
-What Remains of Edith Finch
-[pathologic](http://www.pathologic-game.com/)
-[We Happy Few](http://store.steampowered.com/app/320240/We_Happy_Few/)
+Minit  
+Donut County  
+[Orwell](http://store.steampowered.com/app/491950/)   
+[Virginia](http://store.steampowered.com/agecheck/app/374030/)  
+Event[0]  
+What Remains of Edith Finch  
+[pathologic](http://www.pathologic-game.com/)  
+[We Happy Few](http://store.steampowered.com/app/320240/We_Happy_Few/)  
 [Ape Out](http://www.ign.com/articles/2017/03/09/ape-out-is-like-hotline-miami-with-an-animalistic-twist)  
 [beglitched](http://apthomson.com/)  
 [Terrifying Jellyfish games](http://terrifyingjellyfish.com/tagged/portfolio)  
