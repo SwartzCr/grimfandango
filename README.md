@@ -3,6 +3,7 @@
 
 ## Beaten Games
 OxenFree  
+[Night in the Woods](http://www.nightinthewoods.com)
 Frog Fractions 2/3  
 Accounting VR  
 Inside  
@@ -57,13 +58,20 @@ Machinarium
 
 
 ## Games yet to play
+Minit
+Donut County
+[Orwell](http://store.steampowered.com/app/491950/)  
+[Virginia](http://store.steampowered.com/agecheck/app/374030/)
+Event[0]
+What Remains of Edith Finch
+[pathologic](http://www.pathologic-game.com/)
+[We Happy Few](http://store.steampowered.com/app/320240/We_Happy_Few/)
 [Ape Out](http://www.ign.com/articles/2017/03/09/ape-out-is-like-hotline-miami-with-an-animalistic-twist)  
 [beglitched](http://apthomson.com/)  
 [Terrifying Jellyfish games](http://terrifyingjellyfish.com/tagged/portfolio)  
 [Home Improvisation VR](https://www.youtube.com/watch?v=gRArtkjKKPg)  
 [tinyheist](http://www.pcgamer.com/terry-cavanaghs-stealthy-roguelike-tiny-heist-released-for-free/)  
 Qube  
-We Happy Few  
 Oikospiel  
 Brut@l roguelike  
 Rimworld  
@@ -151,9 +159,7 @@ Primordia
 [Lisa: The Painful RPG](http://www.lisatherpg.com/)   
 [Kairo](http://kairo.lockeddoorpuzzle.com/)  
 [Eversion](http://store.steampowered.com/app/33680/)  
-[Orwell](http://store.steampowered.com/app/491950/)  
 [Everybody's Gone to the Rapture](http://store.steampowered.com/app/417880/)  
 [Diaries of a Spaceport Janitor](http://store.steampowered.com/app/436500/)  
 [Loom](http://store.steampowered.com/app/32340/)  
 [Astroneer](http://store.steampowered.com/app/361420/)  
-[Night in the Woods](http://www.nightinthewoods.com)
