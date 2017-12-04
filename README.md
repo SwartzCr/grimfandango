@@ -58,6 +58,7 @@ Machinarium
 
 
 ## Games yet to play
+[Gorogoa](http://gorogoa.com/)
 [Healthy Breakfast](https://boogieknights.itch.io/healthybreakfast)
 Presentable liberty
 Minit  
