@@ -58,6 +58,17 @@ Machinarium
 
 
 ## Games yet to play
+[A Mortician's Tale](http://laundrybear.com/a-morticians-tale/)  
+[Human Fall Flat](http://store.steampowered.com/app/477160/Human_Fall_Flat/)  
+[Emily Is Away Too](http://store.steampowered.com/app/523780/Emily_is_Away_Too/)  
+[Butterfly Soup](https://brianna-lei.itch.io/butterfly-soup)  
+[The Sexy Brutale](http://store.steampowered.com/app/552590/The_Sexy_Brutale/)  
+[Golf Story](https://www.nintendo.com/games/detail/golf-story-switch)  
+[Opus Magnum](http://store.steampowered.com/app/558990/Opus_Magnum/)  
+[Truberbrook](https://www.kickstarter.com/projects/1995524156/truberbrook-a-nerd-saves-the-world)  
+[Genderwrecked](https://gendervamp.itch.io/genderwrecked)  
+[Little Nightmares](http://store.steampowered.com/app/424840/Little_Nightmares/)  
+[Blackwood Crossing](http://store.steampowered.com/app/453310/Blackwood_Crossing/)  
 [Gorogoa](http://gorogoa.com/)  
 [Healthy Breakfast](https://boogieknights.itch.io/healthybreakfast)  
 [Baba is you](https://www.youtube.com/watch?v=Ca5BYKRVXHM) not yet out  
